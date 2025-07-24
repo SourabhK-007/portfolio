@@ -108,16 +108,17 @@ const About = () => {
                             },
                             {
                                 'heading': 'Backend Development & Architecture',
-                                'desc': 'Java(Spring Boot, Hibernate), js(node), Supabase(edge functions)'
+                                'desc': 'Java(Spring Boot, Hibernate), js(node), Supabase(edge functions), flutter-android app dev'
                             },
                             ,
                             {
                                 'heading': 'Databases',
                                 'desc': 'PostgreSQL(PgAdmin,Supabase,NeonDB), MySQL,MongoDB'
                             },
+                            
                             ,
                             {
-                                'heading': ' DevOps & Version Control ',
+                                'heading': 'DevOps & Version Control ',
                                 'desc': 'GitHub,Docker'
                             },
                             {
