@@ -174,7 +174,7 @@ const About = () => {
                                 [
                                     {
                                         'heading': 'Education',
-                                        'desc': 'KLS Gogte Institute of Technology Bachelors of Engineering (Civil july 2018-Nov 2022)'
+                                        'desc': 'KLS Gogte Institute of Technology Bachelors of Engineering (Civil July 2018-Nov 2022)'
                                     },
                                     {
                                         'heading': 'Certifications',
@@ -184,7 +184,7 @@ const About = () => {
                                         'desc': 'Complete cyber security course (Udemy).'
                                     },
                                     {
-                                        'desc': 'Fill-Stack Developer by Jspiders Basavangudi'
+                                        'desc': 'Full-Stack Developer by Jspiders Basavangudi'
                                     }
                                 ]
                             }
@@ -240,7 +240,7 @@ const About = () => {
                                 'desc': '◦ Socially is a modern, lightweight social media platform built with React and NeonDB. It lets users share posts,comment, and connect in a clean, responsive interface.[tools:react+Next.js as full-framework, tailwind-css,neon(postgres db), clerk(auth provider), prisma(orm tool), upload(remote storage), vercel(deployment) '
                             },
                             {
-                                'heading': 'Art-Adda',
+                                'heading': 'Art-Adda (In Progress)',
                                 'desc': 'An e-commerce platform for showcasing and selling artwork using Spring, Hibernate, and MySQL. Artists(admins) can upload and manage their work, while users can explore and purchase art through a seamless marketplace experience'
                             },
 
